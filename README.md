@@ -39,5 +39,3 @@ Hence, we need to check recall, precision & f1 score for the minority class, and
 
 #### So, i finalised the model which was created by RF classifier
 
-#### Model deployment is done with other account on Heroku using Flask.
-
